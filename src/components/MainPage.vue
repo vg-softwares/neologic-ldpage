@@ -243,7 +243,8 @@
 
     /* Rodapé */
     .footer {
-        background-color: #000;
+        background-color: #121212 !important;
+
         padding: 30px 0;
     }
 
@@ -258,5 +259,8 @@
 
     .text-muted {
         color: #cccc !important;
+    }
+    .bg-transparent {
+        background-color: #121212 !important;
     }
 </style>
